@@ -1,6 +1,7 @@
 # https://www.codewars.com/kata/5b853229cfde412a470000d0
 # Your function takes two arguments:
 #
+# Twice as Old -- Codewars -- 8kyu
 # current father's age (years)
 # current age of his son (years)
 # Сalculate how many years ago
