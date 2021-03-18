@@ -1,6 +1,7 @@
 # https://www.codewars.com/kata/56f695399400f5d9ef000af5
 
 # Is this my tail? -- Codewars -- 8kyu
+
 # Some new animals have arrived at the zoo.
 # The zoo keeper is concerned that perhaps the animals do not have the right tails.
 # To help her, you must correct the broken function to make sure that the second argument (tail),
