@@ -1,5 +1,6 @@
 # https://www.codewars.com/kata/59ca8246d751df55cc00014c
 
+# Is he gonna survive? -- Codewars -- 8kyu
 # A hero is on his way to the castle to complete his mission.
 # However, he's been told that the castle is surrounded with a couple of
 # powerful dragons! each dragon takes 2 bullets to be defeated, our hero has no idea
