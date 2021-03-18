@@ -1,5 +1,6 @@
 # https://www.codewars.com/kata/558445a88826e1376b000011
 
+# Calculate Julie's Age -- Codewars -- 7kyu
 # Julie is x years older than her brother, and she is also y times as old as him.
 #
 # Given x and y calculate Julie's age using the function age(x, y).
