@@ -1,1 +1,1 @@
-# CodeWars Challenge Solution (Mostly using Python) 🗿
+# CodeWars Challenge Solution (Mostly using Python 🗿)
